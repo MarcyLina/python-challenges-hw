@@ -1,6 +1,6 @@
 ##  What is Python?
-![MP](https://c-sf.smule.com/sf/s60/arr/2d/8f/56082f57-0437-44ab-8ce3-83e639b70d33.jpg)
-#### Hw Answers:
+![MP](https://c-sf.smule.com/sf/s50/arr/7e/ef/537b5163-efd1-4ec4-bbac-9b2490b6d96b.jpg)
+### Hw Answers:
 
  1. What paradigms does Python support?
       - Object oriented, procedure oriented, functional and imperative.
@@ -34,6 +34,10 @@
 
  10. How does one execute a Python program?
       - python3 file.py
+
+
+
+
 
 
 
