@@ -1,10 +1,11 @@
 ##  What is Python?
 
  1. What paradigms does Python support?
-      -
+      - Object oriented, procedure oriented, functional and imperative.
+      - Really good, simple breakdown: https://www.quora.com/What-programming-paradigms-does-python-allow
 
  2. What typing discipline does it follow?
-      - python_follows_snake_case
+      - dynamic, strong
 
  3. Is it a high or low level language?
       - It is high level because it is interpreted rather than compiled.
