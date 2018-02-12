@@ -13,22 +13,22 @@
       - base 1's and 0's
 
  4. Does it have built in memory management and garbage collection?
-      -
+      - Yes it does.
 
  5. What languages was Python influenced by?
-      -
+      - Smalltalk, Lisp, Java, Perl, C++ and Haskel
 
  6. Is it a compiled or interpreted language?
       - It is interpreted. This is what makes it high level.
 
  7. Does it have strong support for functional programming?
-      -
+      - No it does not
 
  8. What's the deal with Python 2 vs Python 3?
-      -
+      - P2 is more used for legacy programming, where as P3 is current and future.
 
  9. How do you open a REPL for Python?
-      -
+      - $ python3
 
  10. How does one execute a Python program?
-      -
+      - python3 file.py
