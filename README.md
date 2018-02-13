@@ -7,7 +7,7 @@
       - Really good, simple breakdown: https://www.quora.com/What-programming-paradigms-does-python-allow
 
  2. What typing discipline does it follow?
-      - dynamic, strong
+      - dynamic, strong, duck
 
  3. Is it a high or low level language?
       - It is high level because it is interpreted rather than compiled.
@@ -18,22 +18,24 @@
       - Yes it does.
 
  5. What languages was Python influenced by?
-      - Smalltalk, Lisp, Java, Perl, C++ and Haskel
+      - Smalltalk, Lisp, Java, Perl, C, C++ and Haskel
 
  6. Is it a compiled or interpreted language?
       - It is interpreted. This is what makes it high level.
 
  7. Does it have strong support for functional programming?
-      - No it does not
+      - Some, but it isn't ideal
 
  8. What's the deal with Python 2 vs Python 3?
       - P2 is more used for legacy programming, whereas P3 is current and future.
 
  9. How do you open a REPL for Python?
-      - $ python3
-
+      - $ python3 (or python)
  10. How does one execute a Python program?
-      - python3 file.py
+      - python3 (or python) file_name.py
+
+  11. How does Python compare to other langauges you've used? Which language is it closest to?
+      - I think python feels a little more human. It sounds almost like a humanized javascript to me.
 
 
 
